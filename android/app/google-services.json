@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "141562512802",
+    "project_id": "icollekt-f5dc5",
+    "storage_bucket": "icollekt-f5dc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141562512802:android:973ea70205ebe8f7ae1efb",
+        "android_client_info": {
+          "package_name": "com.example.icollekt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141562512802-rlt98qep03g3btirrqurpspqg9605bhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.icollekt",
+            "certificate_hash": "36c037f974bef8da31b90535c0f005e7f6c3be1b"
+          }
+        },
+        {
+          "client_id": "141562512802-db1dsdtgscgg3cg9ev20gveou5cnf7p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA17srlPNKIyc4xx4nuWe2cMW4H1QFVNYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141562512802-db1dsdtgscgg3cg9ev20gveou5cnf7p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
